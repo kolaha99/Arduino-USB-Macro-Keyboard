@@ -49,7 +49,7 @@ int KalibrWert[4];
 
 const String data[Reihen][Spalten] =
 {
-  { "§p0x87 §t100 §r0x87 ", "3", "§w0xB1 §t500 mdworkin§w0xB0 " },
+  { "1", "§p0x87 §t100 §r0x87 ", "3", "§w0xB1 §t500 mdworkin§w0xB0 " },
   { "Sehr geherte Damen und Herren,\n", "Michael Dworkin\nReichstr. 18\n42281 Wuppertal", "Mit freundlichen Grüßen\nMichael Dworkin", "Bitte Bestellen" },
   { "§p0x87 r§r0x87 §t100 shutdown -s -t 0 -f", "8", "9", "§w0xb0 Neue Zeile"},
 };
